@@ -44,4 +44,3 @@ let d = "piyush"
 let e = d.split("")
 console.log(e)
 
-n
